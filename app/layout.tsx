@@ -6,8 +6,8 @@ import "./globals.css"
 import { ToastContainer } from "@/components/ui/toast"
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
+  title: "NHAI | Signup",
+  description: "Smart Sanitation & Monitoring System (SSMS) – Govt. of India",
   generator: "v0.app",
 }
 
